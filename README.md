@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Flink Stream Data Analysis Tool</h1>
+  <h1 align="center">DolphinScheduler Workflow Task Scheduling Platform</h1>
   <p align="center">
     <a href="README_ZH.md"><strong>简体中文</strong></a> | <strong>English</strong>
   </p>
