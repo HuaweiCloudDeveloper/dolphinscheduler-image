@@ -26,7 +26,7 @@
 ![](./images/img01.png)
 
 
-本项目提供的开源镜像商品 [**`DolphinScheduler工作流任务调度平台`**](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281616205033472)，已预先安装 DolphinScheduler 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**DolphinScheduler工作流任务调度平台**](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281616205033472)，已预先安装 DolphinScheduler 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高

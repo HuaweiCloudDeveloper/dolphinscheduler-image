@@ -25,7 +25,7 @@
 
 ![](./images/img01.png)
 
-This project offers pre-configured [**Flink Stream Analysis Tool**](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281616205033472) images with DolphinScheduler and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**Apache dolphinscheduler**](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) images with DolphinScheduler and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 2GHz or higher  
