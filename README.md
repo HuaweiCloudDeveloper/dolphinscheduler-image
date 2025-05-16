@@ -39,8 +39,8 @@ This project offers pre-configured [**Apache dolphinscheduler**](https://marketp
 
 | Image Version                                                                                                                        | Description                                                     | Notes |  
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------|  
-| [dolphinscheduler-3.1_EulerOS2.0](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1126343634183368704)  | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [dolphinscheduler-3.1_Ubuntu24.04](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1126343526060834816) | Deployed on Kunpeng servers with Ubuntu24.04 64bit 64bit        |  |  
+| [dolphinscheduler-3.1_EulerOS2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4)  | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [dolphinscheduler-3.1_Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) | Deployed on Kunpeng servers with Ubuntu24.04 64bit 64bit        |  |  
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/issues)
