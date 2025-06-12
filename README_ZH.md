@@ -40,8 +40,9 @@
 
 | 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [dolphinscheduler-3.1_EulerOS2.0](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1126343634183368704)  | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [dolphinscheduler-3.1_EulerOS2.0](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1126343634183368704) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 | [dolphinscheduler-3.1_Ubuntu24.04](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1126343526060834816) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署              |  |
+| [DolphinScheduler3.2.2-x86-v1.0](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1126343526060834816) | 基于X86 + CentOS 7.6 64bit 安装部署                            |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
