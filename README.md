@@ -1,51 +1,16 @@
-<p align="center">
-  <h1 align="center">DolphinScheduler Workflow Task Scheduling Platform</h1>
-  <p align="center">
-    <a href="README_ZH.md"><strong>简体中文</strong></a> | <strong>English</strong>
-  </p>
+# DolphinScheduler3.2.2-x86-v1.0
 
-## Table of Contents
+## 规格说明
 
-- [Repository Introduction](#repository-introduction)  
-- [Prerequisites](#prerequisites)  
-- [Image Specifications](#image-specifications)
-- [Getting Help](#getting-help)
-- [How to Contribute](#how-to-contribute)
+- 镜像商品：[DolphinScheduler工作流任务调度平台](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281618467303424)
+- 镜像规格：DolphinScheduler3.2.2-x86-v1.0
+- 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
+- CPU架构：ARM
+- 操作系统：Huawei Cloud EulerOS 2.0 64bit
+- 资源编排服务（RFS）：ECS + EIP + VPC
 
-## Repository Introduction  
-[Apache dolphinscheduler](https://github.com/apache/dolphinscheduler) is the modern data orchestration platform. Agile to create high performance workflow with low-code.
+## 使用说明
 
-**Core Features:**
-1. By using a DAG graph to associate tasks based on their dependencies, real-time visualization of the task's operational status can be achieved.  
-2. Rich types of tasks available: Shell、MR、Spark、SQL(mysql、postgresql、hive、sparksql),Python,Sub_Process、Procedure、Flink  And HTTP tasks, etc.  
-3. Implement cluster HA and decentralize Master and Worker clusters through Zookeeper.  
-4. Support workflow scheduled scheduling, dependency scheduling, manual scheduling, manual pause/stop/resume, while also supporting failed retry/alarm, failed recovery from designated nodes, Kill tasks, and other operations.  
+- 华为云云商店：[DolphinScheduler工作流任务调度平台](./docs/usage.md)
 
-**Architecture Design:**
-
-![](./images/img01.png)
-
-This project offers pre-configured [**Apache dolphinscheduler**](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) images with DolphinScheduler and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
-
-> **System Requirements:**
-> - CPU: 2GHz or higher  
-> - RAM: 4GB or more  
-> - Disk: At least 40GB  
-
-## Prerequisites  
-[Register a Huawei account and activate Huawei Cloud](https://support.huaweicloud.com/usermanual-account/account_id_001.html)
-
-## Image Specifications  
-
-| Image Version                                                                                                                        | Description                                                     | Notes |  
-|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------|  
-| [dolphinscheduler-3.1_EulerOS2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4)  | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [dolphinscheduler-3.1_Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) | Deployed on Kunpeng servers with Ubuntu24.04 64bit 64bit        |  |  
-
-## Getting Help
-- Submit an [issue](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/issues)
-- Contact Huawei Cloud Marketplace product support
-
-## How to Contribute
-- Fork this repository and submit a merge request.
-- Update README.md synchronously based on your open-source mirror information.
+更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
