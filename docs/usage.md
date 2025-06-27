@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[DolphinScheduler工作流任务调度平台](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281616205033472)
+[DolphinScheduler工作流任务调度平台](https://marketplace.huaweicloud.com/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281599440400384)
 
 # 二、商品说明
 
@@ -27,7 +27,7 @@
 ![img.png](images/img6.png)
 如下图“Apply required resource success. ”即为资源创建完成
 ![img.png](images/img7.png)
-# 3.2 ECS 控制台配置
+##  3.2 ECS 控制台配置
 
 ### 准备工作
 
@@ -59,7 +59,7 @@
 > - 高级配置需要在高级选项支持注入自定义数据，所以登录凭证不能选择“密码”，选择创建后设置；
 > - 其余默认或按规则填写即可。
 
-# 商品使用
+# 四、商品使用
 
 ## 启动dolphinscheduler服务 (单机版)
 -- apache-dolphinscheduler源文件存放路径
@@ -77,7 +77,7 @@ bash ./bin/dolphinscheduler-daemon.sh stop standalone-server
 bash ./bin/dolphinscheduler-daemon.sh status standalone-server
 ```
 
-### 其它 启动/停止 服务命令参考
+## 其它 启动/停止 服务命令参考
 ```bash
 # 一键停止集群所有服务
 sh /opt/soft/dolphinscheduler-3.1.4/bin/stop-all.sh
@@ -101,11 +101,11 @@ sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh stop api-serv
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh start alert-server
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh stop alert-server
 ```
-### 访问 web 页面
+## 访问 web 页面
 http://ip:12345/dolphinscheduler/ui/home 
 
 -- ip 需要改成自己的公网 ip  默认的登录用户/密码：admin/dolphinscheduler123
 
-### 参考文档
+## 参考文档
 
 [dolphinscheduler官网](https://dolphinscheduler.apache.org/zh-cn)
