@@ -11,6 +11,6 @@
 
 ## 使用说明
 
-- 华为云云商店：[DolphinScheduler工作流任务调度平台](./docs/usage.md)
+- 使用说明：[DolphinScheduler工作流任务调度平台](./docs/usage.md)
 
 更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。

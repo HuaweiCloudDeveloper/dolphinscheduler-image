@@ -6,7 +6,7 @@
 
 # 二、商品说明
 
-**DolphinScheduler** 是现代数据编排平台。它能够以低代码创建高性能敏捷工作流。
+**Apache DolphinScheduler** 是一个分布式和可扩展的开源工作流协调平台，具有强大的DAG可视化界面，致力于解决数据管道中复杂的任务依赖关系，并提供“开箱即用”的各种类型的作业。
 
 # 三、商品购买
 
@@ -27,7 +27,7 @@
 ![img.png](images/img6.png)
 如下图“Apply required resource success. ”即为资源创建完成
 ![img.png](images/img7.png)
-# 3.2ECS 控制台配置
+# 3.2 ECS 控制台配置
 
 ### 准备工作
 
@@ -63,6 +63,7 @@
 
 ## 启动dolphinscheduler服务 (单机版)
 -- apache-dolphinscheduler源文件存放路径
+
 cd /opt/soft/dolphinscheduler/apache-dolphinscheduler-3.1.4-bin
 
 ```bash
@@ -80,24 +81,30 @@ bash ./bin/dolphinscheduler-daemon.sh status standalone-server
 ```bash
 # 一键停止集群所有服务
 sh /opt/soft/dolphinscheduler-3.1.4/bin/stop-all.sh
+
 # 一键启动集群所有服务
 sh /opt/soft/dolphinscheduler-3.1.4/bin/start-all.sh
+
 # 启/停 master 服务
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh start master-server
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh stop master-server
+
 # 启/停 worker 服务
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh start worker-server
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh stop worker-server
+
 # 启/停 api 服务
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh start api-server
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh stop api-server
+
 # 启/停 alert 服务
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh start alert-server
 sh /opt/soft/dolphinscheduler-3.1.4/bin/dolphinscheduler-daemon.sh stop alert-server
 ```
 ### 访问 web 页面
-http://ip:12345/dolphinscheduler/ui/home -- ip 需要改成自己的公网 ip
-默认的登录用户/密码：admin/dolphinscheduler123
+http://ip:12345/dolphinscheduler/ui/home 
+
+-- ip 需要改成自己的公网 ip  默认的登录用户/密码：admin/dolphinscheduler123
 
 ### 参考文档
 
