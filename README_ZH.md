@@ -40,8 +40,8 @@
 
 | 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [DolphinScheduler3.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/dolphinscheduler3.1-kunpeng-v1.0) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
-| [DolphinScheduler3.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/dolphinscheduler3.1-kunpeng-v1.0) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署 |  |
+| [DolphinScheduler3.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/DolphinScheduler3.1-kunpeng-v1.0) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [DolphinScheduler3.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/DolphinScheduler3.1-kunpeng-v1.0) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署 |  |
 | [DolphinScheduler3.2.2-x86-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/DolphinScheduler3.2.2-x86-v1.0) | 基于X86 + CentOS 7.6 64bit 安装部署                            |  |
 
 ## 获取帮助
