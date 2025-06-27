@@ -39,7 +39,8 @@ This project offers pre-configured [**Apache dolphinscheduler**](https://marketp
 
 | Image Version                                                                                                                        | Description                                                    | Notes |  
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------|  
-| [DolphinScheduler3.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/dolphinscheduler3.1-kunpeng-v1.0) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
+| [DolphinScheduler3.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/dolphinscheduler3.1-kunpeng-v1.0)      | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [DolphinScheduler3.1-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/dolphinscheduler3.1-kunpeng-v1.0)      | Deployed on Kunpeng servers with Ubuntu24.04 64bit        |  |  
 | [DolphinScheduler3.2.2-x86-v1.0](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image/tree/DolphinScheduler3.2.2-x86-v1.0) | Deployed on X86 servers with CentOS 7.6 64bit            |  |  
 
 ## Getting Help
