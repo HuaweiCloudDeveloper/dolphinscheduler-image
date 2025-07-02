@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[DolphinScheduler工作流任务调度平台](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281618467303424)
+[DolphinScheduler工作流任务调度平台](https://marketplace.huaweicloud.com/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281618467303424)
 
 # 二、商品说明
 
