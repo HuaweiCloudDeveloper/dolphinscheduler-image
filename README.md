@@ -1,4 +1,4 @@
-# DolphinScheduler3.1-kunpeng-v1.0
+# DolphinScheduler3.1-kunpeng
 
 ## 规格说明
 
