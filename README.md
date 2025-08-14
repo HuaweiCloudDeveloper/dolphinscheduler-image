@@ -1,9 +1,9 @@
-# DolphinScheduler3.2.2-x86-v1.0
+# DolphinScheduler3.2.2-x86
 
 ## 规格说明
 
 - 镜像商品：[DolphinScheduler工作流任务调度平台](https://marketplace.huaweicloud.com/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281618467303424)
-- 镜像规格：DolphinScheduler3.2.2-x86-v1.0
+- 镜像规格：DolphinScheduler3.2.2-x86
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：ARM
 - 操作系统：Huawei Cloud EulerOS 2.0 64bit
