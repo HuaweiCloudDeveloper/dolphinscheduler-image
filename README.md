@@ -3,7 +3,7 @@
 ## 规格说明
 
 - 镜像商品：[DolphinScheduler工作流任务调度平台](https://marketplace.huaweicloud.com/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281599440400384)
-- 镜像规格：DolphinScheduler3.1-kunpeng-v1.0
+- 镜像规格：DolphinScheduler3.1-kunpeng
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：Kunpeng-ARM
 - 操作系统：Huawei Cloud EulerOS 2.0 64bit
