@@ -1,4 +1,4 @@
-# DolphinScheduler3.2.2-x86-v1.0
+# DolphinScheduler3.2.2-x86
 
 ## 规格说明
 
